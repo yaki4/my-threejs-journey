@@ -65,3 +65,6 @@ Contrôles
       => pas pour la caméra mais permet de bougé des objets (comme un éditeur) https://threejs.org/examples/#misc_controls_transform
     DragControls
       => permet de bouger les objets aussi pas pour caméra https://threejs.org/examples/#misc_controls_drag
+  
+  Comment choisir le bon type de contrôle
+    => Dépendant de votre contexte et ce que l'on veut réalisé. si il manque une feature
